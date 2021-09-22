@@ -8,6 +8,7 @@ Hi, I’m Pam! I'm a multi-disciplinary designer with 4 years’ combined experi
 ## Get in touch
 - [LinkedIn](https://www.linkedin.com/in/pmaguigad/)
 - [Twitter](https://twitter.com/PamelaMaguigad)
+- [Pinterest](https://www.pinterest.com/pamelamaguigad/)
 
 <!---
 pamelamaguigad/pamelamaguigad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
