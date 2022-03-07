@@ -3,12 +3,14 @@ Hi, I’m Pam! I'm a multi-disciplinary designer with 4 years’ combined experi
 
 ## What I'm up to
 - I’m currently improving my [Python](https://www.python.org/) knowledge via edX courses.
-- I'm also working on a project involving [Geographic Information Systems (GIS)](https://www.nationalgeographic.org/encyclopedia/geographic-information-system-gis/) and [Spatial Design Network Analysis (sDNA)](https://sdna.cardiff.ac.uk/sdna/).
+- I'm also working on a project involving [GIS](https://www.nationalgeographic.org/encyclopedia/geographic-information-system-gis/) and [sDNA](https://sdna.cardiff.ac.uk/sdna/).
 
 ## Get in touch
 - [LinkedIn](https://www.linkedin.com/in/pmaguigad/)
-- [Twitter](https://twitter.com/PamelaMaguigad)
+- [Instagram](https://www.instagram.com/pamelamaguigad/)
 - [Pinterest](https://www.pinterest.com/pamelamaguigad/)
+- [CodePen](https://codepen.io/pamelamaguigad)
+- [Unsplash](https://unsplash.com/@mszladyp)
 
 <!---
 pamelamaguigad/pamelamaguigad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
